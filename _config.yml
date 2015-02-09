@@ -1,0 +1,13 @@
+# Site settings
+title: Min(blog)
+email: min.mcknight (at) gmail.com
+description: > # 
+  Chronicling the transformation of a web surfer into a full-stack web developer, with the help of General Assembly. There will be pain, and there will be tears, but, at the end, there will be beautiful web applications.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://minmcknight.com" # the base hostname & protocol for your site
+twitter_username: minmcknight
+github_username:  minmcknight
+
+# Build settings
+markdown: kramdown
